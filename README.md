@@ -23,10 +23,12 @@ The project now includes a SQLite database system for persistent data storage. I
 2. Follow the on-screen instructions to interact with the Pet Store Management System.
 
 ## Dependencies
+
 Java
 SQLite (included)
 
 ## Contributors
+
 Senaye Weldeberhan 
 
 
