@@ -22,11 +22,11 @@ The project now includes a SQLite database system for persistent data storage. I
 1. Compile and run the PetStoreDriver.java file.
 2. Follow the on-screen instructions to interact with the Pet Store Management System.
 
-### Dependencies
+## Dependencies
 Java
 SQLite (included)
 
-### Contributors
+## Contributors
 Senaye Weldeberhan 
 
 
