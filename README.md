@@ -19,3 +19,15 @@ The project now includes a SQLite database system for persistent data storage. I
    ```bash
    git clone https://github.com/your-username/pet-store-management.git
 
+1. Compile and run the PetStoreDriver.java file.
+2. Follow the on-screen instructions to interact with the Pet Store Management System.
+
+# Dependencies
+Java
+SQLite (included)
+
+# Contributors
+Senaye Weldeberhan 
+
+
+
